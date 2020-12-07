@@ -1,4 +1,4 @@
-#include <cstdint>;
+#include <cstdint>
 using namespace std;
 
 int32_t sx(uint32_t i)
